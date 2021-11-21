@@ -3,4 +3,3 @@ biopython
 matplotlib
 numpy
 scipy
-plotnine
